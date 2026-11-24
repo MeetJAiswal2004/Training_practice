@@ -15,4 +15,4 @@ pyproject.toml
 uv.lock
 
 ## testing files
-DSA/testing.ipynb
+testing.ipynb
